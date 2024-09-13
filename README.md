@@ -1,5 +1,9 @@
 # Harvard University
 
+Eumar Assis, Master of Liberal Arts, Software Engineering
+
+November, 2023
+
 ## Analyzing the impact of lobbying in the U.S through big data technologies
 
 
